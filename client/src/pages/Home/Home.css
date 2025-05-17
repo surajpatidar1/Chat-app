@@ -1,0 +1,32 @@
+.container-home {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.home {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.slider {
+  width: 20%; /* Sidebar width */
+  background-color: #f1f5f9; /* Light slate background */
+  transition: all 0.3s ease;
+}
+
+.message {
+  flex: 1;
+  background-color: #d5e8f2;
+  display: flex;
+
+}
+
+.hidden {
+  display: none;
+}
+
+

@@ -1,0 +1,11 @@
+.logo{
+    height: 70px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 5rem black;
+    
+  }
+  .logo img{
+    height: 70px;
+    margin-left: 35%;
+    padding: 0.4rem;
+  }

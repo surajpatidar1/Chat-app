@@ -1,0 +1,57 @@
+.containerlog{
+  background: linear-gradient(135deg, #b3d0e3, #dab7bd);
+height: 100vh;
+  width: 100%;
+  color:#aa7fd0
+}
+.form {
+    margin-top: 7rem;
+    box-sizing: border-box;
+    width: 30%;
+    font-size: 1rem;
+    font-weight: 500;
+    box-shadow: 1px 1px 20px grey;
+    margin-left: 32%;
+    text-align: center;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: white;
+    cursor: pointer;
+}
+.form input{
+     padding: 0.5rem;
+     margin: 1rem;
+     text-align: center;
+     align-items: center;
+     width: 70%;
+     border-radius: 0.3rem;
+}
+
+.pic{
+  border: 1px solid black;
+  text-align: center;
+  align-items: center;
+  width: 70%;
+  border-radius: 0.3rem;
+}
+.btn-login{
+  padding: 0.5rem 0.2rem;
+  width: 40%;
+  border-radius: 0.3rem;
+  background: linear-gradient(135deg, #b3d0e3, #dab7bd);
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.5rem 0rem 1rem 0rem;
+  color: rgb(87, 50, 103);
+}
+p{
+  font-size: 0.8rem;
+  font-weight: 400;
+ margin: 0.3rem;
+}
+p img{
+  height: 3rem;
+}
+p:hover{
+  color: rgb(87, 50, 103) ;
+}
